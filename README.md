@@ -1,7 +1,7 @@
 # WWES-11 project
 java code for online store Single Board Computers
 
-WWES delivers Single Board Computers (SBC) and an embedded software for laser devices for semiconductor manufacturings and scientific researches. 
+WWES delivers ** Single Board Computers (SBC) ** and an embedded software for laser devices for semiconductor manufacturings and scientific researches. 
 
 We use a RS232 port for an implementation our SBC and software. It's more efficiently compare an external computer. Customers can connect an external monitor via SBC HDMI, or can add a touch screen for $9 - and that's it! 
 
