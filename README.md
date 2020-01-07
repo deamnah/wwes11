@@ -9,6 +9,6 @@ Our SBC can be used for a remote control (from Santa Clara) and advanced diagnos
 
 We deliver to our customers 16-bit ADCs (Analog Digital Convertor) and special ADC software. Its mean new opportunities to control of analog devices in the industry. 
 
--_WWES_ is ready to implement any automation for controls, measurements and diagnostics from $30. 
--_WWES_ has online store of SBC and different accessories. 
--_WWES_ delivers worldwide new technologies and software products that fuel our customer’s success.
+- _WWES_ is ready to implement any automation for controls, measurements and diagnostics from $30. 
+- _WWES_ has online store of SBC and different accessories. 
+- _WWES_ delivers worldwide new technologies and software products that fuel our customer’s success.
